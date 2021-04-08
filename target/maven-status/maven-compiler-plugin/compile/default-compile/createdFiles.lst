@@ -1,7 +1,0 @@
-com\demanda\config\SecurityConfig.class
-com\demanda\controller\PessoasController.class
-com\demanda\ADemandaApplication.class
-com\demanda\model\SelecioneSexo.class
-com\demanda\repository\filter\PessoasFilter.class
-com\demanda\repository\PessoasRepository.class
-com\demanda\model\Pessoas.class
